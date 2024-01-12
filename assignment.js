@@ -31,3 +31,12 @@ console.log(`Is ${num2} an even number? ${result2}`);
 //addition
 
 console.log(5 + 10);
+
+
+//code#5
+
+let now = "now in";
+let three = 3;
+let d = "D!";
+
+console.log(`${now} ${three} ${d}`);
