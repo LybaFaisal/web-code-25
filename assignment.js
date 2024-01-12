@@ -115,3 +115,11 @@ switch (day) {
             break;
         }
 }
+
+//code 9
+
+for( let i=1; i<=5; i++)
+{
+    console.log(`iteration= ${i}`);
+}
+console.log("Iterations completed");
