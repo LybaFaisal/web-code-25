@@ -40,3 +40,14 @@ let three = 3;
 let d = "D!";
 
 console.log(`${now} ${three} ${d}`);
+
+
+//code#6
+
+let counter = 0;
+
+counter += 5;
+
+counter += 3;
+
+console.log(counter);
