@@ -161,3 +161,24 @@ while(x<=2022)
     console.log(`iteration ${x}`);
     x++;
 }
+
+//code # 14
+
+for(let y=1;y<=10;y++)
+{
+    if(y===1)
+    {
+        console.log("Gold Medal");
+    }
+    else if(y===2)
+    {
+        console.log("Silver Medal");
+    }
+    else if(y===3)
+    {
+        console.log("Bronze Medal");
+    }
+    else{
+        console.log(`${y}`);
+    }
+}
