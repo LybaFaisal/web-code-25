@@ -152,3 +152,12 @@ while(j>=1)
     j--;
 }
 console.log("Counting finished!");
+
+//code # 13
+
+let x=2018;
+while(x<=2022)
+{
+    console.log(`iteration ${x}`);
+    x++;
+}
