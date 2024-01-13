@@ -131,3 +131,14 @@ for( let i=5; i>=1; i--)
     console.log(`iteration= ${i}`);
 }
 console.log("Counting Finished");
+
+
+//code # 11
+
+let i=1;
+while(i<=5)
+{
+    console.log(`iteration ${i}`);
+    i++;
+}
+console.log("Counting completed!");
