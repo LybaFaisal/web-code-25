@@ -142,3 +142,13 @@ while(i<=5)
     i++;
 }
 console.log("Counting completed!");
+
+//code # 12
+
+let j=5;
+while(j>=1)
+{
+    console.log(`iteration ${j}`);
+    j--;
+}
+console.log("Counting finished!");
